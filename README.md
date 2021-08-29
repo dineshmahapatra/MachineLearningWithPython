@@ -3,11 +3,11 @@
 An engaging introduction to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) with Python
 
 ## TL;DR
-- Download all Jupyter Notebooks from repo.
-- Have Anaconda installed ([Get it for free here](https://www.anaconda.com/products/individual))
-- Open the first Notebook.
+- Download all Jupyter Notebooks from repo ([zip-file-download](https://github.com/LearnPythonWithRune/MachineLearningWithPython/archive/refs/heads/main.zip)).
+- Unzip download (main.zip) appropriate place.
+- Launch Ananconda and start JuPyter Notebook ([Install it from here if needed](https://www.anaconda.com/products/individual))
+- Open the first Notebook from download.
 - Start watching the first video lesson ([YouTube]()).
-
 
 ## Machine Learning (ML)
 ### Goal of Course
@@ -15,7 +15,7 @@ An engaging introduction to [Machine Learning](https://en.wikipedia.org/wiki/Mac
 - Master a broad variety of **ML techniques**
 - Solve problems with ML
 - **15 projects** with ML covering:
-    - $k$-Nearest-Neighbors Classifier
+    - k-Nearest-Neighbors Classifier
     - Linear Classifier
     - Support Vector Classification
     - Linear Regression
