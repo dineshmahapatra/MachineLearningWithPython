@@ -7,7 +7,7 @@ An engaging introduction to [Machine Learning](https://en.wikipedia.org/wiki/Mac
 - Unzip download (main.zip) appropriate place.
 - Launch Ananconda and start JuPyter Notebook ([Install it from here if needed](https://www.anaconda.com/products/individual))
 - Open the first Notebook from download.
-- Start watching the first video lesson ([YouTube]()).
+- Start watching the first video lesson ([YouTube](https://youtu.be/pQA6MGsXCNg)).
 
 ## Machine Learning (ML)
 ### Goal of Course
